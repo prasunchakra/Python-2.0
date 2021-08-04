@@ -1,4 +1,17 @@
-# Python As Tool
+# Python As A General Purpose Language
 
 #### Chapter 1: Fundamentals
-    * It contains most of the language specific items to get started with the language
+    * Numbers, Booleans and String
+    * Operators
+    * Conditional Statements
+    * Functions
+    * Map, Filter and Reduce
+    * Loops
+
+#### Chapter 2: Object-Oriented Programing
+    * Classes and Objects
+    * Instance Methods
+    * Class Methods and Static Methods
+    * Access Modifiers
+    * Information Hiding (Encapsulation and Abstraction)
+    * Inheritence
